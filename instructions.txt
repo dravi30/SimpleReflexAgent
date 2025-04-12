@@ -1,0 +1,5 @@
+conda activate simple-ai
+
+pip install matplotlib
+
+python SimpleAgent.py
